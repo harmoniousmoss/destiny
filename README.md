@@ -1,6 +1,6 @@
 # Destiny - AI Content Processing Framework
 
-**Destiny** is a powerful, open-source Python framework for AI-powered content processing, translation, and duplicate detection. Built around Google Gemini AI, it provides clean, reusable components for extracting, cleaning, and analyzing text content from various sources.
+Destiny is open-source Python framework for AI-powered content processing, translation, and duplicate detection. Built around Google Gemini AI, it provides clean, reusable components for extracting, cleaning, and analyzing text content from various sources.
 
 ## ✨ Features
 
