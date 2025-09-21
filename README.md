@@ -93,7 +93,7 @@ processed = service.process_html_content(html_content)
 is_similar = service.detect_content_similarity(content1, content2)
 ```
 
-### ContentProcessor
+### Content Processor
 
 High-level processor that combines multiple AI operations:
 
@@ -256,14 +256,6 @@ python examples/duplicate_detection.py
 - **Batch Processing**: Process items in manageable batches to avoid timeouts
 - **Error Recovery**: Comprehensive error handling with detailed logging
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -280,13 +272,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Content Analysis**: Extract structured data from unstructured content
 - **Multi-language Processing**: Translate and process content across languages
 - **Quality Assurance**: Clean AI-generated or scraped content
-
-## 🆘 Support
-
-- Create an issue for bug reports or feature requests
-- Check existing issues before creating new ones
-- Provide clear examples and error messages when reporting issues
-
----
-
-**Made with ❤️ for the open source community**
