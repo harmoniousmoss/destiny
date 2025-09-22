@@ -259,16 +259,3 @@ python examples/duplicate_detection.py
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Related Projects
-
-- [Google Generative AI Python SDK](https://github.com/google/generative-ai-python)
-- [Flask Content Processing API Template](https://github.com/example/flask-content-api)
-
-## 💡 Use Cases
-
-- **Content Migration**: Clean and translate content during migrations
-- **Data Deduplication**: Remove duplicate articles from large datasets
-- **Content Analysis**: Extract structured data from unstructured content
-- **Multi-language Processing**: Translate and process content across languages
-- **Quality Assurance**: Clean AI-generated or scraped content
